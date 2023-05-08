@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "d:/git/Massey_SCARA_Emulator/include",
-                "d:/git/Massey_SCARA_Emulator/src",
+                "d:/git/Massey_SCARA_Emulator/Massey_SCARA_Emulator_VS_Code/include",
+                "d:/git/Massey_SCARA_Emulator/Massey_SCARA_Emulator_VS_Code/src",
                 "C:/Users/HP/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/HP/.platformio/packages/framework-arduino-avr/variants/standard",
                 "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -22,8 +22,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "d:/git/Massey_SCARA_Emulator/include",
-                    "d:/git/Massey_SCARA_Emulator/src",
+                    "d:/git/Massey_SCARA_Emulator/Massey_SCARA_Emulator_VS_Code/include",
+                    "d:/git/Massey_SCARA_Emulator/Massey_SCARA_Emulator_VS_Code/src",
                     "C:/Users/HP/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/HP/.platformio/packages/framework-arduino-avr/variants/standard",
                     "C:/Users/HP/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
